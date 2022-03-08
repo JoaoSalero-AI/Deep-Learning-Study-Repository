@@ -20,7 +20,7 @@
 - [Developing the entire Artifitial Neural Networks - No Frameworks](adicionar o link_do_projeto)
 
  ### R
-Coming soon!
+- [NLP - Text Analytics To Analyze Market Reaction To News From A Company](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/NLP)
 
 ---
 My [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-s-37aa011a8/).
