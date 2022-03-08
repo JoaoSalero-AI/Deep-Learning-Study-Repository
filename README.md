@@ -17,7 +17,7 @@
 
  ## Projects
  ### Python
-Coming soon!
+- [Developing the entire Artifitial Neural Networks - No Frameworks](adicionar o link_do_projeto)
 
  ### R
 Coming soon!
