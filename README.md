@@ -17,7 +17,7 @@
 
  ## Projects
  ### Python
-- [Developing the entire Artifitial Neural Networks - No Frameworks](adicionar o link_do_projeto)
+- [Developing the entire Artifitial Neural Networks - No Frameworks](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/Artifitial_Neural_Net_Math)
 
  ### R
 - [NLP - Text Analytics To Analyze Market Reaction To News From A Company](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/NLP)
