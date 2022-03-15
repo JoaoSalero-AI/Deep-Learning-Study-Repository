@@ -19,6 +19,7 @@
  ### Python
 - [ANN - Developing the entire Artifitial Neural Networks - No Frameworks](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/Artifitial_Neural_Net_Math)
 - [Computer Vision - Rebuild Scenes](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/Computer_Vision)
+- [Computer Vision and Natural Language Processing](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/Computer_Vision-and-Natural_Language_Processing)
 
  ### R
 - [NLP - Text Analytics To Analyze Market Reaction To News From A Company](https://github.com/JoaoSalero-AI/Deep-Learning-Study-Repository/tree/master/NLP)
